@@ -28,4 +28,24 @@ manual.
 
 ![Picture](SS/3.jpg)
 
+Menjalankan CLI (Command Line Interface)
+Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk
+mengakses CLI buka terminal/command prompt.
 
+![Picture](SS/4.jpg)
+
+![Picture](SS/5.jpg)
+
+![Picture](SS/6.jpg)
+
+![Picture](SS/7.jpg)
+
+![Picture](SS/8.jpg)
+
+![Picture](SS/9.jpg)
+
+![Picture](SS/10.jpg)
+
+![Picture](SS/11.jpg)
+
+![Picture](SS/12.jpg)
